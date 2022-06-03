@@ -15,3 +15,4 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 
 This is a CI/CD Project developed at ShaTech Consultancy for Student Demonstration
 This Project will help to uderstand CI/CD concept in detail...
+Let's Enjoy Learning at ShaTech Consultancy!!!
